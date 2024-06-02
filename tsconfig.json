@@ -21,7 +21,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/MoviesList.jsx", "components/MoviesPage.tsx"  ],
   "exclude": [
     "node_modules"
   ]
